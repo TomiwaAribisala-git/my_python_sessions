@@ -1,1 +1,1 @@
-# A compilation of my experience learning Python using Freecodecamp Youtube tutorial [video](https://www.youtube.com/watch?v=rfscVS0vtbw) and Eric Matthes Python Crash Course [book](https://b-ok.africa/book/4995914/5d84d3). 
+# A compilation of my session learning Python using Freecodecamp Youtube tutorial [video](https://www.youtube.com/watch?v=rfscVS0vtbw) and Eric Matthes Python Crash Course [book](https://b-ok.africa/book/4995914/5d84d3). 
